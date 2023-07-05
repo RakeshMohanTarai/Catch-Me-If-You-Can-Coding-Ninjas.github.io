@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.container {
+  width: 1528px; /* Use viewport units for width */
+  height: 707px; /* Use viewport units for height */
+  border-right: 3px solid black;  /* Add right border */
+  border-bottom: 3px solid black; /* Add bottom border */
+}
+
+#box {
+  position: absolute;
+  width: 20vw;
+  height: 20vw;
+  background-color: rgb(255, 55, 255);
+  transition: width 0.3s, height 0.3s;
+  cursor: pointer;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+}
