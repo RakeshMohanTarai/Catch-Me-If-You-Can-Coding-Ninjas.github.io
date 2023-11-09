@@ -1,6 +1,13 @@
-# Catch Me If You Can Coding Ninjas
-Create a box whose size changes dynamically according to viewport size. Now when you hover over the box, it should change its position randomly inside the viewport.
+🕹️🎯 **Catch Me If You Can Coding Ninjas** 🕹️🎯
 
-You can put box initially at any position inside the viewprt; just make sure that it does not move out of the viewport at any given time. 
+Hosted link: [Chase the box now!](https://rakeshmohantarai.github.io/Catch-Me-If-You-Can-Coding-Ninjas.github.io/)
 
-Hosted link :- https://rakeshmohantarai.github.io/Catch-Me-If-You-Can-Coding-Ninjas.github.io/
+📦 Experience the thrill of a dynamically resizing box that adapts to your viewport size! As you hover over the box, get ready for an exhilarating chase as it darts around the viewport.
+
+🔄 The box intelligently changes its position randomly within the viewport, ensuring an engaging and immersive experience. Strategize your moves to catch it in action!
+
+🌐 Positioned initially at a carefully chosen spot, the box guarantees not to escape the boundaries of the viewport. It's a game of agility, precision, and fun!
+
+Ready to embark on this interactive adventure? Hover, chase, and revel in the dynamic dance of the box! 🚀🎉
+
+Feel free to add any additional details or preferences, and let me know if you'd like any changes!
